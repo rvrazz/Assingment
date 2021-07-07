@@ -1,5 +1,11 @@
-body{font-family: 'Oswald';}
-h1{
+body{
+    font-family: 'Oswald';
+    display: flex;
+    width: 50%;
+    margin: 0%;
+   
+} 
+    h1{
     font-size: 55px;
     color: blueviolet;
 }
@@ -11,4 +17,15 @@ h3{
 }
 p{
     font-size: 22px;
+    display: flex;
+}
+.t-s{
+    margin-left: 10%;
+}
+a{
+    color: darkred;
+    font-size: 20px;
+    text-decoration: none;
+    background: linear-gradient(#e66465, pink);
+    border-radius: 5px;
 }
