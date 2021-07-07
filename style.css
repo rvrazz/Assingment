@@ -1,12 +1,14 @@
+body{font-family: 'Oswald';}
 h1{
-    font-family: 'Oswald';
     font-size: 55px;
     color: blueviolet;
 }
 h3{
-    font-size: 25px;
-    color: cyan;
+    font-size: 30px;;
 }
 .h-t-l{
     color: tomato;
+}
+p{
+    font-size: 22px;
 }
